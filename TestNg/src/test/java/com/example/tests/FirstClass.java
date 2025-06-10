@@ -12,6 +12,8 @@ public class FirstClass {
 	        int expectedDifference = 5;
 	        int actualDifference = a - b;
 	        Assert.assertEquals(actualDifference, expectedDifference, "Difference should be 5");
-	    }
+	   System.out.println("automation done successfully"); 
+	  
+	  }
 
 }
